@@ -18,7 +18,7 @@ I play the game  in the rare case that I don't have an internet connection, but 
 
 I have been recently trying to learn haskell and so I thought that this was a pretty good opportunity to use it (please be kind haskell gods).
 
-Initially I noticed that the way of liquids being poured resembled a stack so thats what I went with and the datastructures were:
+Initially I noticed that the way of liquids being poured resembled a stack so thats what I went with and the data structures were:
 
 ```haskell
 type Index = Int
@@ -121,7 +121,7 @@ The next step was reading the input through an image and generating some json in
 
 
 
-Given I am unfamiliar with image processing my first idea was to check on object detection and from my initial reading that required building a cascade classifier.
+Given I am unfamiliar with image processing my first idea was to check on object detection and from my reading  I understood that required building a cascade classifier.
 
 Before that I tried working with cv2's findContours functionality first and that seemed to be the easier and simple approach.
 
