@@ -1,6 +1,5 @@
-# Tech topics that interest me
+# POSTS
 
-Posts:
 
-- [Solving water sort puzzles programatically](#solving-water-sort)
+- [Solving water sort puzzles programatically](./solving-water-sort.md)
 
